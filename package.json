@@ -1,0 +1,24 @@
+{
+  "name": "myhw_aqa_7.2",
+  "version": "1.0.0",
+  "description": "myhw",
+  "keywords": [
+    "node",
+    "hw"
+  ],
+  "homepage": "https://github.com/aliendrouse/MYHW_AQA_7.2#readme",
+  "bugs": {
+    "url": "https://github.com/aliendrouse/MYHW_AQA_7.2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliendrouse/MYHW_AQA_7.2.git"
+  },
+  "license": "ISC",
+  "author": "aliendrouse",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
